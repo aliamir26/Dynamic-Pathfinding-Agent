@@ -16,42 +16,42 @@ A Python + Tkinter GUI that implements **Greedy Best-First Search (GBFS)** and *
 ### Main Interface
 <!-- Take a screenshot of the app when it first opens — empty grid + control panel visible -->
 
-![Main Interface](screenshots/main_interface.png)
+![Main Interface](screenshots/main_interface.png.png)
 
 ---
 
 ### A\* Search — Best Case (Open Grid)
 <!-- Settings: 10x10 grid, no obstacles, A*, Manhattan Distance, click Start Search -->
 
-![A* Best Case](screenshots/astar_best_case.png)
+![A* Best Case](screenshots/astar_best_case.png.png)
 
 ---
 
 ### A\* Search — Worst Case (Dense Obstacles)
 <!-- Settings: 10x10 grid, 35% random obstacles, A*, Manhattan Distance, click Start Search -->
 
-![A* Worst Case](screenshots/astar_worst_case.png)
+![A* Worst Case](screenshots/astar_worst_case.png.png)
 
 ---
 
 ### Greedy BFS — Best Case (Open Grid)
 <!-- Settings: 10x10 grid, no obstacles, Greedy BFS, Manhattan Distance, click Start Search -->
 
-![GBFS Best Case](screenshots/gbfs_best_case.png)
+![GBFS Best Case](screenshots/gbfs_best_case.png.png)
 
 ---
 
 ### Greedy BFS — Worst Case (Dense Obstacles)
 <!-- Settings: 10x10 grid, 35% random obstacles, Greedy BFS, Manhattan Distance, click Start Search -->
 
-![GBFS Worst Case](screenshots/gbfs_worst_case.png)
+![GBFS Worst Case](screenshots/gbfs_worst_case.png.png)
 
 ---
 
 ### Dynamic Re-planning in Action
 <!-- Settings: 10x10 grid, light obstacles, A*, Dynamic Mode ON at 15% spawn, click Start Search -->
 
-![Dynamic Replanning](screenshots/dynamic_replanning.png)
+![Dynamic Replanning](screenshots/dynamic_replanning.png.png)
 
 ---
 
