@@ -170,7 +170,6 @@ def greedy_bfs(grid, start, goal, rows, cols, heuristic_fn):
         frontier_now = frozenset(item[1] for item in open_list)
         frontier_snapshots.append(frontier_now)
 
-    # ❌ Open list exhausted — no path exists
     return None, visited_order, frontier_snapshots
 
 
